@@ -1,2 +1,2 @@
 # fullstackopen
-fullstackopen kurssin palautukset
+Other exercises: https://github.com/kristianka/fullstackopen2023
